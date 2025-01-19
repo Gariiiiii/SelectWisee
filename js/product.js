@@ -739,7 +739,7 @@ const products = [
         rating: 3.8,
         reviews: "1k",
         price: 39999,
-        image: "img/products/Miscellaneous Items/samsung galaxy watch 7.webp",
+        image: "img/products/Miscellaneous Items/Samsung galaxy watch 7.webp",
         display: "1.47inches Super AMOLED Display with a resolution of 360x360, offering vibrant colors and a brightness of up to 2000 nits for easy readability even in bright light",
         camera: "N/A",
         frontCamera: "N/A",
